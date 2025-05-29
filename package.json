@@ -5,6 +5,8 @@
   "description": "Vite & JavaScript",
   "private": true,
   "type": "module",
+  "homepage": "https://Cyde4JC.github.io/Sacco-Point" ,
+
   "scripts": {
     "dev": "vite",
     "start": "vite preview",
@@ -138,3 +140,4 @@
     "vite-plugin-checker": "^0.7.2"
   }
 }
+
